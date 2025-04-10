@@ -75,6 +75,12 @@ This project applies machine learning and case similarity techniques to predict 
 
 ---
 
+## 🖼️ Model Output Preview
+
+![Patient Case Similarity Output](images/output_patient_case_similarity.png)
+
+---
+
 ## 🙏 Acknowledgments
 
 Thanks to the open-source community, healthcare researchers, and contributors who made this project possible.
