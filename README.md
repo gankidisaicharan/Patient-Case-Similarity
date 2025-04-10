@@ -59,8 +59,6 @@ This project applies machine learning and case similarity techniques to predict 
 
 ---
 
----
-
 ## 📈 Results
 
 - **Accuracy**: 99%  
